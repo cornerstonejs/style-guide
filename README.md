@@ -1,4 +1,4 @@
-# cornerstone.js's Style Guide
+# Cornerstone.js Style Guide
 
 Brand assets and style guide for cornerstone.js libraries and documentation.
 
